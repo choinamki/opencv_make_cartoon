@@ -15,7 +15,7 @@ string RAW_IMAGE_LINK 의 원하는 이미지 경로를 입력하면 사용할 �
 
 
 #프로그램 흐름도
-![img](https://user-imagesggithubusercontent.com/41056045/74126555-96706e00-4c1b-11ea-92a1-f6a25c33ac79.jpg)
+![img](https://user-images.githubusercontent.com/41056045/74126742-0c74d500-4c1c-11ea-983f-70f7bd5b8472.jpg)
 
 
 #프로그램 결과물
