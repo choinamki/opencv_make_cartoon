@@ -1,5 +1,8 @@
 # opencv_make_cartoon
 
+해당 블로그 주소 : https://namki-learning.tistory.com/44?category=687500
+
+
 c++, opencv 를 사용하여 카툰라이저를 만들었습니다.
 
 
@@ -20,3 +23,5 @@ string RAW_IMAGE_LINK 의 원하는 이미지 경로를 입력하면 사용할 �
 
 #프로그램 결과물
 ![img (1)](https://user-images.githubusercontent.com/41056045/74126643-ce77b100-4c1b-11ea-9c07-f2a77ae390ed.jpg)
+
+
